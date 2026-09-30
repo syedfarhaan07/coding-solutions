@@ -63,7 +63,7 @@ Note: I/O will be automatically handled.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-30T13:40:25.048Z  
+**Submitted:** 2026-09-30T14:16:39.379Z  
 
 ```c
 #include <stdio.h>
@@ -83,7 +83,6 @@ int max_of_four(int a, int b, int c, int d)
 
     return max;
 }
-
 int main()
 {
     int a, b, c, d;
