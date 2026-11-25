@@ -46,8 +46,8 @@ Output: [[1,2],[3,4]]
 
 **Language:** C  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 15.5 MB (beats 97.31%)  
-**Submitted:** 2026-11-25T16:24:30.206Z  
+**Memory:** 15.9 MB (beats 35.18%)  
+**Submitted:** 2026-11-25T16:23:21.223Z  
 
 ```c
 /**
